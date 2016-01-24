@@ -1,0 +1,8 @@
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\Bin\Debug\Shoutcast.Sample.Phone.Background.PlaybackAgent.dll
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\Bin\Debug\Shoutcast.Sample.Phone.Background.PlaybackAgent.pdb
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\Bin\Debug\Silverlight.Media.Phone.dll
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\Bin\Debug\Silverlight.Media.Phone.pdb
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\Bin\Debug\Silverlight.Media.Phone.xml
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\obj\Debug\Shoutcast.Sample.Phone.Background.Playback.csprojResolveAssemblyReference.cache
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\obj\Debug\Shoutcast.Sample.Phone.Background.PlaybackAgent.dll
+D:\Project\LiveStreamRadio\Shoutcast.Background.Playback\obj\Debug\Shoutcast.Sample.Phone.Background.PlaybackAgent.pdb

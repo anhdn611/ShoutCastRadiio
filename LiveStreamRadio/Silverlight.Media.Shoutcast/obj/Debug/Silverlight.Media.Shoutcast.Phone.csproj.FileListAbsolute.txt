@@ -1,0 +1,11 @@
+C:\Users\Dao\Desktop\ShoutcastMSS_v1_beta2\Src\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.xml
+C:\Users\Dao\Desktop\ShoutcastMSS_v1_beta2\Src\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.dll
+C:\Users\Dao\Desktop\ShoutcastMSS_v1_beta2\Src\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.pdb
+C:\Users\Dao\Desktop\ShoutcastMSS_v1_beta2\Src\Silverlight.Media.Shoutcast\obj\Debug\Silverlight.Media.Phone.dll
+C:\Users\Dao\Desktop\ShoutcastMSS_v1_beta2\Src\Silverlight.Media.Shoutcast\obj\Debug\Silverlight.Media.Phone.pdb
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.xml
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.dll
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\Bin\Debug\Silverlight.Media.Phone.pdb
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\obj\Debug\Silverlight.Media.Phone.dll
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\obj\Debug\Silverlight.Media.Phone.pdb
+E:\Project\LiveStreamRadio\LiveStreamRadio\Silverlight.Media.Shoutcast\obj\Debug\Silverlight.Media.Shoutcast.Phone.csprojResolveAssemblyReference.cache
